@@ -1,0 +1,204 @@
+Command: MAKECALL
+	Cannot perform MAKECALL. Account does not exist in FCIT Mobile System.
+
+Command: SENDTEXT
+	Cannot perform SENDTEXT. Account does not exist in FCIT Mobile System.
+
+Command: RECHARGE
+	Cannot perform RECHARGE. Account does not exist in FCIT Mobile System.
+
+Command: SEARCH
+	Cannot perform SEARCH. Account does not exist in FCIT Mobile System.
+
+Command: DISPLAYDETAILS
+	Performing Binary Search...(Indices viewed: )
+	Cannot perform DISPLAYDETAILS. Account does not exist in FCIT Mobile System.
+
+Command: ADDCUSTOMER
+	Name:          LENNA DUMA
+	Customer ID:    1112888
+	Phone Number:  0508402834
+	Balance:       15.00
+Command: ADDCUSTOMER
+	Name:          CLARINDA WORKOWSKI
+	Customer ID:    1120062
+	Phone Number:  0505817738
+	Balance:       15.00
+Command: ADDCUSTOMER
+	Name:          FILOMENA CARETHERS
+	Customer ID:    1111786
+	Phone Number:  0504615592
+	Balance:       15.00
+Command: MAKECALL
+	Name:           LENNA DUMA
+	Phone Number:   0508402834
+	Number Called:  0509070596
+	Call Duration:  15 minutes
+	Call Cost:      2.10	New Balance:    12.90
+Command: SENDTEXT
+	Name:           CLARINDA WORKOWSKI
+	Phone Number:   0505817738
+	Number Texted:  0502621893
+	Text Cost:      0.08	New Balance:    14.92
+Command: SENDTEXT
+	Name:           FILOMENA CARETHERS
+	Phone Number:   0504615592
+	Number Texted:  0508954536
+	Text Cost:      0.08	New Balance:    14.92
+Command: RECHARGE
+	Name:            LENNA DUMA
+	Phone Number:    0508402834
+	Recharge Amount: 52.00	New Balance:     64.90
+Command: MAKECALL
+	Name:           CLARINDA WORKOWSKI
+	Phone Number:   0505817738
+	Number Called:  0509427329
+	Call Duration:  37 minutes
+	Call Cost:      5.18	New Balance:    9.74
+Command: MAKECALL
+	Cannot perform MAKECALL. Account does not exist in FCIT Mobile System.
+
+Command: SENDTEXT
+	Name:           LENNA DUMA
+	Phone Number:   0508402834
+	Number Texted:  0509803340
+	Text Cost:      0.08	New Balance:    64.82
+Command: MAKECALL
+	Name:           FILOMENA CARETHERS
+	Phone Number:   0504615592
+	Number Called:  0509760486
+	Call Duration:  4 minutes
+	Call Cost:      0.56	New Balance:    14.36
+Command: DISPLAYDETAILS
+	Performing Binary Search...(Indices viewed: 1 )
+	Name:          LENNA DUMA
+	Customer ID:    1112888
+	Phone Number:  0508402834
+	Called Numbers and Duration:
+		0509070596 (15)
+	Texted Numbers:
+		0509803340
+
+Command: ADDCUSTOMER
+	Name:          STANTON LOVITT
+	Customer ID:    1115651
+	Phone Number:  0509679344
+	Balance:       15.00
+Command: ADDCUSTOMER
+	Name:          DIANNE NOY
+	Customer ID:    1116735
+	Phone Number:  0506869744
+	Balance:       15.00
+Command: ADDCUSTOMER
+	Name:          RUDY TSOSIE
+	Customer ID:    1119472
+	Phone Number:  0506520448
+	Balance:       15.00
+Command: ADDCUSTOMER
+	Name:          ARACELY EDHOLM
+	Customer ID:    1113012
+	Phone Number:  0508072151
+	Balance:       15.00
+Command: ADDCUSTOMER
+	Name:          ONIE RIZAL
+	Customer ID:    1117800
+	Phone Number:  0504169095
+	Balance:       15.00
+Command: MAKECALL
+	Name:           STANTON LOVITT
+	Phone Number:   0509679344
+	Number Called:  0503334556
+	Call Duration:  60 minutes
+	Call Cost:      8.40	New Balance:    6.60
+Command: MAKECALL
+	Name:           RUDY TSOSIE
+	Phone Number:   0506520448
+	Number Called:  0509760486
+	Call Duration:  4 minutes
+	Call Cost:      0.56	New Balance:    14.44
+Command: DISPLAYDETAILS
+	Performing Binary Search...(Indices viewed: 3 1 2 )
+	Name:          ARACELY EDHOLM
+	Customer ID:    1113012
+	Phone Number:  0508072151
+	Called Numbers and Duration:
+		(user has not made any calls yet)
+	Texted Numbers:
+		(user has not made any calls yet)
+
+Command: SENDTEXT
+	Cannot perform SENDTEXT. Account does not exist in FCIT Mobile System.
+
+Command: MAKECALL
+	Name:           STANTON LOVITT
+	Phone Number:   0509679344
+	Number Called:  0503334556
+	Call Duration:  47
+	Call Cost:      6.58	New Balance:    0.02	***Call terminated due to low balance.
+Command: RECHARGE
+	Name:            STANTON LOVITT
+	Phone Number:    0509679344
+	Recharge Amount: 100.00	New Balance:     100.02
+Command: MAKECALL
+	Name:           STANTON LOVITT
+	Phone Number:   0509679344
+	Number Called:  0503456778
+	Call Duration:  10 minutes
+	Call Cost:      1.40	New Balance:    98.62
+Command: SENDTEXT
+	Name:           RUDY TSOSIE
+	Phone Number:   0506520448
+	Number Texted:  0508955536
+	Text Cost:      0.08	New Balance:    14.36
+Command: SENDTEXT
+	Name:           ARACELY EDHOLM
+	Phone Number:   0508072151
+	Number Texted:  0508854536
+	Text Cost:      0.08	New Balance:    14.92
+Command: MAKECALL
+	Name:           STANTON LOVITT
+	Phone Number:   0509679344
+	Number Called:  0501156778
+	Call Duration:  25 minutes
+	Call Cost:      3.50	New Balance:    95.12
+Command: RECHARGE
+	Name:            STANTON LOVITT
+	Phone Number:    0509679344
+	Recharge Amount: 100.00	New Balance:     195.12
+Command: MAKECALL
+	Name:           LENNA DUMA
+	Phone Number:   0508402834
+	Number Called:  0509071196
+	Call Duration:  30 minutes
+	Call Cost:      4.20	New Balance:    60.62
+Command: MAKECALL
+	Name:           LENNA DUMA
+	Phone Number:   0508402834
+	Number Called:  0509071196
+	Call Duration:  50 minutes
+	Call Cost:      7.00	New Balance:    53.62
+Command: DISPLAYDETAILS
+	Performing Binary Search...(Indices viewed: 3 1 0 )
+	Name:          FILOMENA CARETHERS
+	Customer ID:    1111786
+	Phone Number:  0504615592
+	Called Numbers and Duration:
+		0509760486 (4)
+	Texted Numbers:
+		0508954536
+
+Command: DISPLAYDETAILS
+	Performing Binary Search...(Indices viewed: 3 1 )
+	Name:          LENNA DUMA
+	Customer ID:    1112888
+	Phone Number:  0508402834
+	Called Numbers and Duration:
+		0509071196 (50)
+		0509071196 (30)
+		0509070596 (15)
+	Texted Numbers:
+		0509803340
+
+Command: QUIT.
+	Exiting the FCIT Mobile System...
+	Goodbye.
